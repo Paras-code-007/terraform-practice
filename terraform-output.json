@@ -1,0 +1,12 @@
+[command]/home/runner/work/_temp/b2d6d02f-3b25-4ef6-b220-de8824ee93a3/terraform-bin output -json
+{
+  "repo_visiblity": {
+    "sensitive": false,
+    "type": "string",
+    "value": "public"
+  }
+}
+::debug::Terraform exited with code 0.
+::debug::stdout: {%0A  "repo_visiblity": {%0A    "sensitive": false,%0A    "type": "string",%0A    "value": "public"%0A  }%0A}%0A
+::debug::stderr: 
+::debug::exitcode: 0
